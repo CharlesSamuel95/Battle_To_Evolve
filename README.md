@@ -12,5 +12,5 @@ Team-6-Fall-20\Battle_To_Evolve\resources\rules_text_files).
 Our team used the MVC design pattern, so to start the program execute MainApp.java file locate  here (Team-6-Fall-20\Battle_To_Evolve\src\evolve).
 
 
-Inside the Team-6-Fall-20 folder, there is games a UML diagram for this JavaFX game. O
+Inside the Team-6-Fall-20 folder, there is a UML diagram for this JavaFX game. 
 MainAppTest.java (stored here: Team-6-Fall-20\Battle_To_Evolve\src\unitTesting) contains our junit tests.
