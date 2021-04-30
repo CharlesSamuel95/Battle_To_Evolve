@@ -1,0 +1,17 @@
+Character Rule Set
+
+A character has each of the following characteristics:
+
+Name: The characters name cannot be changed once it has been created. It will follow the character through out its journey.
+
+Health: This is the amount of damage a character can take before it dies.
+
+Attack: This is the possible amount of damage a character can due per attack. It is a max value, not guaranteed every attack.
+
+Stamina: This is how quickly a character can repeatedly attack. A higher stamina rate means a higher attack rate.
+
+Speed: This is how quickly a character will attack after the beginning of a round. Higher rates are faster characters.
+
+Luck: This is how lucky a character is when it comes to getting critical hits (discussed in futhure details in battle rules) and chance of dodging an attack.
+
+ 

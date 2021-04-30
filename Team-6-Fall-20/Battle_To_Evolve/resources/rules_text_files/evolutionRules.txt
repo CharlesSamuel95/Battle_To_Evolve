@@ -1,0 +1,6 @@
+At the end of a battle the winner will get to choose a character from both their team and the enemy team to evolve together.
+
+The chances of evolution is random but it is guaranteed that the winners statistics will be the minimum of the evolved characters statistics.
+
+However, the winning character does have a chance of a percentage of the losing characters statistics.
+These percentages are completely random and only apply to characteristics that are higher on the loser than the winner. 

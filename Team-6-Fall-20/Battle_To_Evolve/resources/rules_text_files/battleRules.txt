@@ -1,0 +1,13 @@
+A battle will continue until all characters of one team die or if a team surrenders.
+
+While there is no time limit on battle there is a battle clock to keep track of the time of the battle.
+
+During a battle characters do have a chance at getting a critical hit:
+There are three types of critical hits:
+1.25% : Where the character does 1.25% damage of it attack statistic
+1.50% : Where the character does 1.50% damage of it attack statistic
+2.00% : Where the character does 2x damage of it attack statistic
+The chance of this occurrence is based on the characters luck 
+
+A character can also dodge an attack, when a character dodges an attack it receives no damage.
+This chance is also based on a characters luck, the luckier the character the higher dodge chance.
